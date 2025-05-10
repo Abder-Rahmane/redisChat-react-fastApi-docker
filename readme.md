@@ -19,7 +19,7 @@ A full-stack live chat application powered by:
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Abder-Rahmane/redisChat-react-fastApi-docker
 cd live-chat
 ```
 
@@ -101,26 +101,5 @@ docker compose down --rmi all
 └── README.md
 ```
 
----
 
-## 🤝 Contributing
 
-Contributions are welcome!  
-To contribute:  
-1. Fork the repository.  
-2. Create a new feature branch.  
-3. Submit a pull request.  
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for details.  
-
----
-
-## 📫 Contact
-
-For any questions or suggestions, please contact:  
-Your Name — <your.email@example.com>
